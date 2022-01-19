@@ -1,1 +1,4 @@
 
+- name: Auto Generate Next Release Tag
+  uses: amitsingh-007/next-release-tag@v1.0.0
+  
